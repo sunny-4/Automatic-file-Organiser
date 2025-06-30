@@ -6,8 +6,6 @@
 A simple Python tool to keep your Downloads folder clean and organized in real time.  
 It watches for new files and automatically moves them into categorized subfolders (Images, Documents, Videos, Archives, Others) based on file type.
 
----
-
 ## ✨ Features
 
 ✅ Monitors your Downloads folder in real time  
@@ -16,7 +14,6 @@ It watches for new files and automatically moves them into categorized subfolder
 ✅ Uses `watchdog` for efficient file system monitoring  
 ✅ Small, lightweight, and actually useful for daily productivity
 
----
 
 ## 🚀 How to run
 
@@ -56,7 +53,6 @@ Downloads/
 ├─ Images/
 ├─ Documents/
 ├─ Videos/
-├─ Archives/
 └─ Others/
 ```
 
@@ -71,7 +67,7 @@ Downloads/
 
 ---
 
-## 🛠 Built with
+##  Built with
 
 * Python 🐍
 * `watchdog` for file system monitoring
@@ -88,11 +84,9 @@ Built as a quick but useful automation tool — and to demonstrate:
 * File system automation
 * Clean code and logging practices
 
-It’s small, but practical — and looks good on a CV or GitHub!
-
 ---
 
 ## ✏ Author
 
-Made by \[Aniruddh reddy] for learning and productivity.
+Made by Aniruddh reddy for learning and productivity.
 
