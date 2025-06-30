@@ -31,7 +31,6 @@ It watches for new files and automatically moves them into categorized subfolder
        "images": r"C:\Users\<YourUsername>\Downloads\Images",
        "documents": r"C:\Users\<YourUsername>\Downloads\Documents",
        "videos": r"C:\Users\<YourUsername>\Downloads\Videos",
-       "archives": r"C:\Users\<YourUsername>\Downloads\Archives",
        "others": r"C:\Users\<YourUsername>\Downloads\Others"
    }
    ```
@@ -42,7 +41,6 @@ It watches for new files and automatically moves them into categorized subfolder
    ```
 5. Download something (like a PDF or image) into your Downloads folder, and see it get moved automatically!
 
----
 
 ## 📂 Folder structure
 
