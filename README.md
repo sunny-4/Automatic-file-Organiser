@@ -1,9 +1,4 @@
-Of course, bro! Here’s a **complete, clean, production-ready `README.md`** you can copy-paste **as-is** into your project folder.
-I wrote it so it looks professional on GitHub and clearly shows what your project does.
 
----
-
-## ✅ **README.md** (copy everything below)
 
 ````markdown
 # 🗂 Automatic File Organizer
@@ -99,24 +94,5 @@ It’s small, but practical — and looks good on a CV or GitHub!
 
 ## ✏ Author
 
-Made by \[Your Name] for learning and productivity.
-
-> If you like it, ⭐️ star the repo!
-
-```
-
----
-
-## 📌 **What to do next**
-✅ Copy-paste the above into a new file named `README.md` in your folder  
-✅ Replace `[Your Name]` with your actual name or GitHub username  
-
----
-
-If you'd like:  
-✅ I can also prepare `.gitignore`  
-✅ Help write the **GitHub repo description & topics**  
-
-Tell me if you'd like those, bro — let’s make this repo look ✨ polished!
-```
+Made by \[Aniruddh reddy] for learning and productivity.
 
