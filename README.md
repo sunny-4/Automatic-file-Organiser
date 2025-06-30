@@ -21,7 +21,6 @@ It watches for new files and automatically moves them into categorized subfolder
 2. Install required Python library:
    ```bash
    pip install watchdog
-````
 
 3. Open `file_organizer.py` and update these lines to your actual paths:
 
