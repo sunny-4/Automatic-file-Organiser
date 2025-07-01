@@ -1,9 +1,3 @@
-# import os
-# downloads_dir=r"C:\Users\mamil\Downloads"
-# entries=os.scandir(downloads_dir)
-# for i in entries:
-#     print(i.name)
-
 import os
 import shutil
 import logging

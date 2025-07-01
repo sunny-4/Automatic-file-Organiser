@@ -1,6 +1,3 @@
-
-
-````markdown
 # 🗂 Automatic File Organizer
 
 A simple Python tool to keep your Downloads folder clean and organized in real time.  
@@ -14,16 +11,14 @@ It watches for new files and automatically moves them into categorized subfolder
 ✅ Uses `watchdog` for efficient file system monitoring  
 ✅ Small, lightweight, and actually useful for daily productivity
 
-
 ## 🚀 How to run
 
 1. **Clone or download** this repository.
 2. Install required Python library:
    ```bash
    pip install watchdog
-
+   ```
 3. Open `file_organizer.py` and update these lines to your actual paths:
-
    ```python
    SOURCE_DIR = r"C:\Users\<YourUsername>\Downloads"
    DEST_DIRS = {
@@ -34,12 +29,10 @@ It watches for new files and automatically moves them into categorized subfolder
    }
    ```
 4. Run the script:
-
    ```bash
    python file_organizer.py
    ```
 5. Download something (like a PDF or image) into your Downloads folder, and see it get moved automatically!
-
 
 ## 📂 Folder structure
 
@@ -64,7 +57,7 @@ Downloads/
 
 ---
 
-##  Built with
+## 🛠 Built with
 
 * Python 🐍
 * `watchdog` for file system monitoring
@@ -85,5 +78,4 @@ Built as a quick but useful automation tool — and to demonstrate:
 
 ## ✏ Author
 
-Made by Aniruddh reddy for learning and productivity.
-
+Made by Aniruddh Reddy for learning and productivity.
